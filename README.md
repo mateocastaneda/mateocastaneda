@@ -33,7 +33,7 @@
 </p>
 
 ### <a href="https://www.instagram.com/mateo.castaneda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateocastaneda" height="30" width="40" /></a>  <a href="https://www.instagram.com/mateo.castaneda" target="_blank">mateo.castaneda</a>
-Art defies technology and technology inspires art. => jhon lasseter
+Art defies technology and technology inspires art. () => jhon lasseter
 
 ---
 
